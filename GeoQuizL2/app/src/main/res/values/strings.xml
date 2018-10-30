@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GeoQuizL0</string>
+
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="button_prev">Poprzednie</string>
+
+    <string name="question_stolica_polski">Czy stolicą Polski jest Warszawa?</string>
+    <string name="question_stolica_dolnego_slaska">Czy stolicą Dolnego Śląska jest Wałbrzych?</string>
+    <string name="question_sniezka">Czy Śnieżka to góra w Karkonoszach?</string>
+    <string name="question_wisla">Czy Wisła to najdłuższa rzeka w Polsce?</string>
+
+    <string name="answer_correct">Prawidłowa odpowiedź!</string>
+    <string name="answer_incorrect">Nieprawidłowa odpowiedź!</string>
+</resources>
